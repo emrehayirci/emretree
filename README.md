@@ -1,6 +1,9 @@
-# Hayirci.com
+# emretree
 
-This is just a simple landing page I made using following stack:
+A simple landing page inspired from linktree.
+It is used to be my previous landing page. I will no longer maintain this however I wanted to keep it here for friends who are using it at the moment.
+
+Stack:
 - React
 - Vite
 - Shadcn
@@ -10,7 +13,7 @@ Feel free to fork it and adapt it based on your needs
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+If you are developing a production application, I recommend updating the configuration to enable type aware lint rules:
 
 - Configure the top-level `parserOptions` property like this:
 
